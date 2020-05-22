@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shivam1192/React-UI.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/shivam1192/React-UI.git/static/js/main.a77ff734.chunk.js",
+    "main.js.map": "/shivam1192/React-UI.git/static/js/main.a77ff734.chunk.js.map",
+    "runtime-main.js": "/shivam1192/React-UI.git/static/js/runtime-main.7129d58b.js",
+    "runtime-main.js.map": "/shivam1192/React-UI.git/static/js/runtime-main.7129d58b.js.map",
+    "static/js/2.31165488.chunk.js": "/shivam1192/React-UI.git/static/js/2.31165488.chunk.js",
+    "static/js/2.31165488.chunk.js.map": "/shivam1192/React-UI.git/static/js/2.31165488.chunk.js.map",
+    "index.html": "/shivam1192/React-UI.git/index.html",
+    "precache-manifest.022b89f3bbb0bc6d377106e8b713925d.js": "/shivam1192/React-UI.git/precache-manifest.022b89f3bbb0bc6d377106e8b713925d.js",
+    "service-worker.js": "/shivam1192/React-UI.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/shivam1192/React-UI.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.31165488.chunk.js.LICENSE.txt": "/shivam1192/React-UI.git/static/js/2.31165488.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7129d58b.js",
+    "static/js/2.31165488.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.a77ff734.chunk.js"
+  ]
+}
